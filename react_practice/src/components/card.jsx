@@ -1,5 +1,10 @@
 function Card() {
-    return <h1>hii! i am card</h1>
+    return 
+    <div>
+        <h1>hii! i am card</h1>
+        <p>This is card component</p>
+        <button>Click Me</button>
+    </div>
 }
 
 export default Card;
